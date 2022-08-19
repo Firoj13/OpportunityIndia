@@ -63,7 +63,6 @@ Route::prefix('admin')->group(function () {
     Route::get('migrate-assigned-tags', 'App\Http\Controllers\Admin\DataMigrationController@migrateContentAssignedTagsForNews' );
 
     Route::group(['middleware' => 'admin'], function() {
-
         Route::get('/home', 'App\Http\Controllers\Admin\HomeController@index')->name('home');
 		Route::get('/users', 'App\Http\Controllers\Admin\UserController@index')->name('users');
 		Route::get('/users/create/', 'App\Http\Controllers\Admin\UserController@create')->name('users.create');

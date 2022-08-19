@@ -17,6 +17,14 @@ use App\Mail\LeadMail;
 
 Route::get('/article/apidata',              'App\Http\Controllers\Frontend\IndexController@apiData');
 Route::get('/article/hindiapidata',         'App\Http\Controllers\Frontend\IndexController@hindiApiData');
-Route::get('/article/apidataforfi',              'App\Http\Controllers\Frontend\IndexController@apiDataForFIRevamp');
+Route::get('/article/apidataforfi',          'App\Http\Controllers\Frontend\IndexController@apiDataForFIRevamp');
 Route::get('/article/cat/{slug}', 'App\Http\Controllers\Frontend\IndexAPIController@getCategoryArticlesList'); 
+
+
+Route::group(['prefix'=>'home'], function(){
+    Route::get('slider','App\Http\Controllers\Apidata\Homedata@getslider');
+});
+
+
+
 

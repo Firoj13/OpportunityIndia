@@ -1,1 +1,0 @@
-<?php /**PATH /home/franchis/public_html/subdomains/opportunityindia/resources/views/frontend/includes/lastestvideoblk.blade.php ENDPATH**/ ?>
