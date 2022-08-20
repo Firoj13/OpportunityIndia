@@ -1,0 +1,21 @@
+<svg id="cart" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="121" height="49" viewBox="0 0 121 49">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0e377a"/>
+      <stop offset="1" stop-color="#0072cb"/>
+    </linearGradient>
+  </defs>
+  <circle id="Ellipse_3" data-name="Ellipse 3" cx="24.5" cy="24.5" r="24.5" transform="translate(72)" fill="#fff"/>
+  <g id="cart-2" data-name="cart" transform="translate(73.302 13.232)">
+    <g id="Group_18" data-name="Group 18" transform="translate(9.698 0)">
+      <g id="Group_17" data-name="Group 17" transform="translate(0 0)">
+        <path id="Path_94" data-name="Path 94" d="M133.124,382.711a3.18,3.18,0,1,0,3.18,3.18A3.183,3.183,0,0,0,133.124,382.711Zm0,4.452a1.272,1.272,0,1,1,1.272-1.272A1.273,1.273,0,0,1,133.124,387.163Z" transform="translate(-124.029 -363.886)" fill="#676f7c"/>
+        <path id="Path_95" data-name="Path 95" d="M324.475,382.711a3.18,3.18,0,1,0,3.18,3.18A3.183,3.183,0,0,0,324.475,382.711Zm0,4.452a1.272,1.272,0,1,1,1.272-1.272A1.273,1.273,0,0,1,324.475,387.163Z" transform="translate(-305.968 -363.886)" fill="#676f7c"/>
+        <path id="Path_96" data-name="Path 96" d="M33.721,6.211a.954.954,0,0,0-.747-.36h-16.7L15.4,1.468A.954.954,0,0,0,14.64.715l-3.816-.7a.954.954,0,0,0-.344,1.877l3.178.583,2.8,14.15a.954.954,0,0,0,.936.769H30.749a.954.954,0,0,0,.929-.74L33.9,7.019A.953.953,0,0,0,33.721,6.211ZM29.99,15.486H18.177L16.649,7.759H31.775Z" transform="translate(-9.698 0)" fill="#676f7c"/>
+      </g>
+    </g>
+  </g>
+  <rect id="Rectangle_3493" data-name="Rectangle 3493" width="64" height="23" rx="4" transform="translate(0 13)" opacity="0" fill="url(#linear-gradient)"/>
+  <path id="Path_1077" data-name="Path 1077" d="M80,18.129l5.08,4.624L80,27.719Z" transform="translate(-16 2)" opacity="0" fill="url(#linear-gradient)"/>
+  <text id="Buy_Now" data-name="Buy Now" transform="translate(33 28)" fill="#fff" font-size="10" font-family="Roboto-Regular, Roboto" opacity="0"><tspan x="-19.646" y="0">Buy Now</tspan></text>
+</svg>

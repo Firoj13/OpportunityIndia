@@ -1,0 +1,17 @@
+[2022-08-20 07:23:13] local.ERROR: Command "optmize" is not defined.
+
+Did you mean one of these?
+    optimize
+    optimize:clear {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"optmize\" is not defined.
+
+Did you mean one of these?
+    optimize
+    optimize:clear at /home/swatantra/adil shared/opportunityindia.franchiseindia.com/vendor/symfony/console/Application.php:709)
+[stacktrace]
+#0 /home/swatantra/adil shared/opportunityindia.franchiseindia.com/vendor/symfony/console/Application.php(259): Symfony\\Component\\Console\\Application->find()
+#1 /home/swatantra/adil shared/opportunityindia.franchiseindia.com/vendor/symfony/console/Application.php(171): Symfony\\Component\\Console\\Application->doRun()
+#2 /home/swatantra/adil shared/opportunityindia.franchiseindia.com/vendor/laravel/framework/src/Illuminate/Console/Application.php(94): Symfony\\Component\\Console\\Application->run()
+#3 /home/swatantra/adil shared/opportunityindia.franchiseindia.com/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(129): Illuminate\\Console\\Application->run()
+#4 /home/swatantra/adil shared/opportunityindia.franchiseindia.com/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#5 {main}
+"} 
